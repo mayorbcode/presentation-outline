@@ -4,6 +4,7 @@ By [Patrick Bello](https://github.com/mayorbcode)
 ## Attributions  
 [Tony Grimes](https://github.com/acidtone)  
   - I would like to thank my instructor Tony for his support throughout the course. I have learnt quite a lot which has provided me with a great platform for growth as i aim to launch my career in web development.  
+
 My Classmates  
   - I would also like to thank all of my classmates for their support in helping me get through this course and also for their trust in me with regards to reaching out for help with their projects/assignments.  
 
